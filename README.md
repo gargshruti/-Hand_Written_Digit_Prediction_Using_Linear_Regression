@@ -1,1 +1,1 @@
-# -Hand_Written_Digit_Prediction_Using_Linear_Regression
+# Hand_Written_Digit_Prediction_Using_Linear_Regression
